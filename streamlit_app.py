@@ -16,7 +16,7 @@ np.set_printoptions(suppress=True)
 # Define the layout of the app
 st.set_page_config(page_title="Parkonix", page_icon=":medical_symbol:")
 
-st.title("Parkinson Care")
+st.title("ParkinCare")
 
 st.header(
     "Unveiling Parkinson's with Precision - 83% Accurate Detection Algorithm Trained on Spiral Sketches."
