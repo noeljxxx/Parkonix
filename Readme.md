@@ -1,5 +1,5 @@
 
-# Parkonix
+# Parkison Care
 
 ## Unveiling the Tremors, A Reliable Algorithm with 83% Accuracy for Detecting Parkinson's Disease through Spiral/Wave Sketch Images.
 
