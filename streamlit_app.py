@@ -41,7 +41,7 @@ with st.sidebar:
     link_text = "Distinguishing Different Stages of Parkinson’s Disease Using Composite Index of Speed and Pen-Pressure of Sketching a Spiral"
     link_url = "https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full"
     st.write(
-        "Parkinson's disease is a neurodegenerative disorder that affects motor functions, leading to tremors, stiffness, and impaired movement. The research presented in the article link mentioned below explores the use of spiral and wave sketch images to develop a robust algorithm for Parkinson's disease detection. Parkonix leverages these sketch images to train an AI model, achieving an impressive accuracy rate of 83%."
+        "Parkinson's disease is a neurodegenerative disorder that affects motor functions, leading to tremors, stiffness, and impaired movement. The research presented in the article link mentioned below explores the use of spiral and wave sketch images to develop a robust algorithm for Parkinson's disease detection. ParkinCare leverages these sketch images to train an AI model, achieving an impressive accuracy rate of 83%."
     )
     st.markdown(f"[{link_text}]({link_url})")
     st.header("Dataset")
